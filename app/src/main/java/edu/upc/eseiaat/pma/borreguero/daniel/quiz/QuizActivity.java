@@ -27,6 +27,7 @@ public class QuizActivity extends AppCompatActivity {
     private boolean[] aciertos;
     private RadioGroup group;
     private Button btn_check,btn_prev;
+    int loDeclaroParaHacerUnCommit;
 
 
 
